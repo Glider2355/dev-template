@@ -4,3 +4,6 @@
 [submodule "db"]
 	path = db
 	url = git@github.com:Glider2355/postgres-template.git
+[submodule "api-spec"]
+	path = api-spec
+	url = git@github.com:Glider2355/api-spec-template.git
